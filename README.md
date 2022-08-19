@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @So1Sauc3
-- 👀 I’m interested in MC
+- 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on mods
 - 📫 How to reach me: dm me on discord or smth Soi#5314
