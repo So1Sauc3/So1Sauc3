@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @So1Sauc3
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on mods
+- 👀 I’m interested in game design
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: dm me on discord idk
 
 <!---
