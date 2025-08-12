@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">A developer :D</h3>
 
 - 🔭 I’m currently working on [Flux]((deployment pending :D))
 
@@ -9,11 +8,11 @@
 
 - 📫 Reach me at **royc.cstat@gmail.com**
 
-<h3 align="center">Socials</h3>
+<h3 align="left">Socials</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/roy-chen-607787327/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -27,11 +26,11 @@
 
 ###
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
