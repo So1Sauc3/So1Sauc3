@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 
-- 🔭 I’m currently working on [Flux]((deployment pending :D))
+- 🔭 I’m currently working on Flux (deployment pending!)
 
 - 🌱 I’m currently learning **Angular and Spring!**
 
-- 👨‍💻 All of my projects are available at [https://www.rcdev.design/](https://www.rcdev.design/)
+- 👨‍💻 Projects and more on my website [rcdev.design](https://www.rcdev.design/) :D
 
-- 📫 Reach me at **royc.cstat@gmail.com**
+- 📫 Email me at **royc.cstat@gmail.com**
 
 <h3 align="left">Socials</h3>
 
@@ -14,13 +14,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/roy-chen-607787327/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/605902775980785701" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@soisauce2673" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo"  />
   </a>
 </div>
 
@@ -111,10 +111,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=so1sauc3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=so1sauc3&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=so1sauc3&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=4&order=3" height="128" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=so1sauc3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=so1sauc3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=so1sauc3&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
