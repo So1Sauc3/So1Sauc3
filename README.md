@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 
-- 🔭 I’m currently working on Flux (deployment pending!)
-
-- 🌱 I’m currently learning **Angular and Spring!**
-
 - 👨‍💻 Projects and more on my website [rcdev.design](https://www.rcdev.design/) :D
 
 - 📫 Email me at **royc.cstat@gmail.com**
@@ -15,9 +11,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/roy-chen-607787327/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/605902775980785701" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@soisauce2673" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo"  />
