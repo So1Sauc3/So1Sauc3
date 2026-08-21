@@ -52,7 +52,7 @@ royc.cstat@gmail.com
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=So1Sauc3&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=100&card_height=100&border=FECD66&stroke=BD7848&ring=FECD66&background=90%2C102E49%2C060C1E&fire=87EAFC&currStreakNum=6EBEE3&sideNums=2773B0&currStreakLabel=FECD66&sideLabels=FECD66&dates=BD7848&excludeDaysLabel=EB5454&hide_longest_streak=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=So1Sauc3&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=100&card_height=100&border=FECD66&stroke=BD7848&ring=FECD66&background=90%2C102E49%2C060C1E&fire=87EAFC&currStreakNum=6EBEE3&sideNums=2773B0&currStreakLabel=FECD66&sideLabels=FECD66&dates=BD7848&excludeDaysLabel=EB5454&hide_longest_streak=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
