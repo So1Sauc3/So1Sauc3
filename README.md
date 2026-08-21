@@ -1,121 +1,60 @@
-<h1 align="center">Hi 👋, I'm Roy</h1>
 
-- 👨‍💻 Projects and more on my website [rcdev.design](https://www.rcdev.design/) :D
 
-- 📫 Email me at **royc.cstat@gmail.com**
-
-<h3 align="left">Socials</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/roy-chen-607787327/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@soisauce2673" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">Languages and Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-</div>
-
-###
-
-<h3 align="center">Statistics</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=so1sauc3&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=4&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=so1sauc3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=so1sauc3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=so1sauc3&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/so1sauc3/so1sauc3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/so1sauc3/so1sauc3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/so1sauc3/so1sauc3/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<table><thead>
+  <tr>
+    <th colspan="2" rowspan="2">
+      <h1>
+        Roy C
+      </h1>
+      <pre lang=rust>
+     < UI UX / modding / game dev / whatever >     
+Always one too many projects at once
+-----<⚙>-----
+royc.cstat@gmail.com
+      </pre>
+    </th>
+    <th>
+      <a href="https://www.rcdev.design/" target="_blank">
+        <img width="128" height="98" alt="IconRCLogo" src="https://github.com/user-attachments/assets/83b901a4-c558-4c77-8697-ce7fc19c1c76" />
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <div align="center">
+        <a href="https://www.linkedin.com/in/roy-chen-607787327/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+        </a>
+        <a href="https://www.youtube.com/@soisauce2673" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo"  />
+        </a>
+      </div>
+    </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>
+      <div align="center">
+        <img width="64" height="64" alt="java" src="https://github.com/user-attachments/assets/84b44dcb-838f-4344-8245-e76cec5d1338" />
+        <img width="64" height="64" alt="python" src="https://github.com/user-attachments/assets/b876fda3-4944-47e4-9cbc-4d54a451f60e" />
+        <img width="64" height="63" alt="ferris" src="https://github.com/user-attachments/assets/824a0455-87e6-46dc-8923-74c0190da85b" />
+      </div>
+      <div align="center">
+        <img width="64" height="64" alt="figma" src="https://github.com/user-attachments/assets/b7aa7da8-3f35-4197-994c-71c4eba30d00" />
+        <img width="64" height="64" alt="godot" src="https://github.com/user-attachments/assets/80690fa8-1e10-41d5-93e3-47f876808fc2" />
+        <img width="64" height="64" alt="bb" src="https://github.com/user-attachments/assets/26bfffd2-880a-4637-b205-971e85033ce3" />
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img width="128" height="128" alt="ts" src="https://github.com/user-attachments/assets/a6859eaa-119c-4c42-a6e4-46cad77c6ccb" />
+      </div>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=So1Sauc3&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=100&card_height=100&border=FECD66&stroke=BD7848&ring=FECD66&background=90%2C102E49%2C060C1E&fire=87EAFC&currStreakNum=6EBEE3&sideNums=2773B0&currStreakLabel=FECD66&sideLabels=FECD66&dates=BD7848&excludeDaysLabel=EB5454&hide_longest_streak=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</tbody>
+</table>
