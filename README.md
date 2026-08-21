@@ -7,11 +7,11 @@
         Roy C
       </h1>
       <pre lang=rust>
-     < UI UX / modding / game dev / whatever >     
+    < UI UX / web dev / modding / procedural gen >    
 Always one too many projects at once
 -----<⚙>-----
-royc.cstat@gmail.com
-      </pre>
+so1sauc3
+royc.cstat@gmail.com</pre>
     </th>
     <th>
       <a href="https://www.rcdev.design/" target="_blank">
